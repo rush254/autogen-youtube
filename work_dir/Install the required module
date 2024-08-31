@@ -1,0 +1,2 @@
+# Install the required module
+pip install -qqq youtube_transcript_api --quiet
