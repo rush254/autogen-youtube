@@ -53,3 +53,74 @@ def generate_and_save_transcript(video_url: str) -> str:
 #### End of generate_youtube_transcript ####
 
         
+
+##### Begin of generate_and_save_markdown #####
+
+from typing import List, Dict, Optional
+from pathlib import Path
+
+def generate_and_save_markdown(
+    sections: List[Dict[str, Optional[str]]], 
+    output_file: str = "report.md", 
+    report_title: str = "Markdown Report"
+) -> None:
+    """
+    Function to generate a Markdown report file.
+
+    :param sections: A list of sections where each section is represented by a dictionary containing:
+                     - title: The title of the section.
+                     - level: The heading level (e.g., "title", "h1", "h2").
+                     - content: The content or body text of the section.
+                     - image: (Optional) The URL or local path to the image.
+    :param output_file: The name of the output Markdown file. (default is "report.md")
+    :param report_title: The title of the report. (default is "Markdown Report")
+    :return: None
+    """
+
+    # Create or overwrite the markdown file
+    with open(output_file, "w") as md_file:
+        # Write the report title as the main heading
+        md_file.write(f"# {report_title}\n\n")
+
+        # Process each section
+        for section in sections:
+            title = section.get("title", "")
+            level = section.get("level", "h1")
+            content = section.get("content", "")
+            image = section.get("image", "")
+
+            # Determine the heading level
+            if level == "title":
+                md_file.write(f"# {title}\n\n")
+            elif level == "h1":
+                md_file.write(f"## {title}\n\n")
+            elif level == "h2":
+                md_file.write(f"### {title}\n\n")
+            else:
+                md_file.write(f"#### {title}\n\n")
+
+            # Add the content
+            if content:
+                md_file.write(f"{content}\n\n")
+
+            # Add the image if provided
+            if image:
+                md_file.write(f"![{title}]({image})\n\n")
+
+        print(f"Markdown report saved as {output_file}")
+
+# # Example usage
+# sections = [
+#     {
+#         "title": "Introduction - Early Life",
+#         "level": "h1",
+#         "image": "https://picsum.photos/536/354",
+#         "content": ("Marie Curie was born on 7 November 1867 in Warsaw, Poland. "
+#                     "She was the youngest of five children. Both of her parents were teachers. "
+#                     "Her father was a math and physics instructor, and her mother was the head of a private school. "
+#                     "Marie's curiosity and brilliance were evident from an early 
+
+
+#### End of generate_and_save_markdown ####
+
+        

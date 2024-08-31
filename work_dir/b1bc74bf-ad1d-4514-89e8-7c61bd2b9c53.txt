@@ -1,0 +1,750 @@
+in this video I'm going to break down
+the AI news that I think is interesting
+that you might have missed this week so
+let's get into
+[Music]
+it there's actually been a ton of news
+in the world of AI image generation this
+week There's Been news around flux and
+news around mid journey and news around
+idiogram and free picks Mystic and so
+much has been happening in the world of
+AI art generation that I actually made a
+whole dedicated video just to talk about
+what's been going on in the world of AI
+art you can find it with this video here
+called mid journey is free again and
+here's why that video is not just about
+mid Journey it kind of breaks down the
+entire AI art landscape and what's going
+on there right now however I will give
+you a quick recap in this video starting
+with the fact that mid Journey opened up
+their free trial again back when mid
+Journey first came out and it was only
+available inside of Discord they had a
+free trial however unfortunately a
+handful of people figured out how to
+game this system and a lot of people
+were figuring out how to get multiple
+free trial and just keep on using mid
+Journey for free so they eliminated the
+free trial and this week they brought
+that free trial back and if you want to
+get good at using mid Journey now that
+you can play around with it for free if
+you want I actually have a full playlist
+on Mid Journey here with a ton of tips
+and tutorials on how to get the absolute
+best out of mid Journey so check that
+out if you're finally ready to try mid
+Journey because now it's free now there
+is a caveat to it you only get 25 images
+that's not 25 images a month that's 2
+Generations once you've used mid Journey
+25 times done 25 images they'll kick you
+out and make you pay for it but mid
+journey is still one of the best AI
+image generation platforms I'm always
+still impressed with the types of images
+that I get out of mid Journey so if
+you're somebody that's never played with
+it before I highly recommend diving in
+now now I doubt the timing of mid
+Journey offering their free trial is
+coincidence because this week idiogram
+rolled out a new model idog is a really
+good AI art generation model in fact
+it's most well known for the fact that
+it was pretty much the first AI
+generation model that was really really
+good at generating text inside of the
+model well this week they announced
+idiogram 2.0 and they also announced
+that it is now available to all users
+for free so a model on par with mid
+Journey comes out offers users the
+ability to use it for free and on the
+exact same day mid journey goes and says
+yeah but we got free trials now so is
+that a coincidence maybe now idiogram is
+really pretty dang good especially when
+you're trying to get text inside of the
+images it's pretty decent at realism as
+well it's hard to find images that it
+won't actually do now they do say it is
+free for all however if I look at the
+subscription page here this is the
+reality you get 10 credits per day now
+one credit generates four Images so for
+the most part you get 40 images per day
+mid Journey you get 25 images and then
+your trials up IDR you can generate with
+10 prompts or 40 images per day once
+your credits are up you either have to
+upgrade or just wait till tomorrow now
+with all of this AI image generation
+craziness happening we've seen a lot of
+sort of unhinged AI images especially
+coming out of flux on grock 2 and well
+AI is getting political Donald Trump
+himself posted over on the truth social
+platform these images that sort of imply
+that Taylor Swift and Taylor Swift's
+fans are endorsing Donald Trump but of
+course these are AI generated images
+here's another image that Donald Trump
+himself posted over on X of KLA Harris
+in front of a crowd with a communist
+flag out in front so yeah the political
+landscape is getting really weird with
+all these AI image Generations something
+that I think pretty much anybody that's
+been paying attention to AI image
+generation probably saw coming now on
+the flip side of the AI image generation
+craze the CEO of procreate came out this
+week to say he's anti- generative Ai and
+that generative AI will never be a part
+of procreate here's his little 40c
+message you've been asking us about AI
+you know I usually don't like getting in
+front of the camera I prefer that our
+products speak for themselves I really
+ hate journey of AI I don't like
+what's happening in the industry and I
+don't like what it's doing to artists
+we're not going to be introducing any
+generative AI into our products our
+products are always designed and
+developed with the idea that a human
+will be creating something you know we
+don't exactly know where this story is
+going to go or How It Ends but we
+believe that we're on the right path
+supporting human
+MKBHD actually retweeted this message
+from the CEO of procreate saying
+bookmark this such a fascinating
+announcement artists and users on social
+media celebrate take notes Adobe but
+then he goes on to say but Tech Al this
+is committing to never offering any of
+the features in their products no matter
+how good or useful they may get in the
+future an announcement to not add
+features I wonder if they ever bend on
+this rule someday and that's kind of the
+take that I agree with I mean I sort of
+commend James here from procreate for
+taking a stand and while every app in
+the world is basically saying look we've
+got AI in it now they're saying we're
+never going to do that but also never is
+a long time but at the end of the today
+procreate is just one tool and if you
+want to generate AI art just don't use
+procreate simple as that moving along to
+what's been happening in the world of AI
+video generation Luma Labs released
+dream machine 1.5 now it's got higher
+quality text to video smarter
+understanding of your prompts custom
+text rendering and improved image to
+video I jumped into my Luma Labs account
+to test a few Generations here this was
+actually one of the recommended ideas
+here that I just had it generate an
+extreme close-up footage of a young
+sailor woman with a concerned expression
+during a rainstorm and this is what it
+gave me for that looks pretty good I
+mean it's very cartoony sort of Pixar is
+looking but I think it's a pretty decent
+video but they mentioned that it's
+better at rendering text now and so I
+was curious about that so I used one of
+the prompts that I was playing with when
+I was testing all the AI image
+generators and I asked it to do a
+mystical Forest Clearing where wisps of
+fog spell out the words magic awaits in
+flowing ethereal lettering between
+ancient trees my first attempt it said
+say magic wet so I went huh that's weird
+maybe I'll try again the second time I
+tried it it went and wrote magic vs it
+got magic perfect both times but it
+struggled with the word awaits either
+way I actually think that Luma Labs
+makes some pretty decent videos I'm
+happy with most of the stuff that it's
+generated for me so far but I kind of
+have to disagree that it's great at text
+yet maybe it's better if it's just like
+one word or something but just trying to
+get it to say magic awaits on two rolls
+I could not get it to work but again
+still makes some pretty decent videos we
+also got another AI video tool roll out
+this week in a tool called hot shot and
+the creators of this tool basically
+compare it to Sora because their press
+release is titled how a four-person team
+built Sora and admittedly most of the
+generations that they show on their
+homepage are really freaking good like
+this girl popping out of the water these
+corgis here this girl sending a text
+message this girl among like these wheat
+feeld felds these videos look really
+really good unfortunately they're
+cherry-picked as hell now this tool lets
+you generate two videos for free every
+day so if you generate two videos and
+you don't get one that you like you have
+two options you can either wait till
+tomorrow and try two videos again or you
+can pay them a hundred bucks a month to
+be able to generate more videos me being
+a huge sucker I upgraded I paid the
+hundred bucks because I wanted to test
+more generations to see how well it does
+when I try my own prompts so let's click
+over to mine and see what I got and well
+you'll see pretty quickly that nothing
+that I did looks nearly as good as the
+prompts they show on their homepage this
+is supposed to be a monkey on roller
+skates down here this is like a
+chameleon changing colors with the
+background this was a sand castle that
+was supposed to collapse when the waves
+hit it but it doesn't collapse these are
+sparks that are supposed to turn into
+constellations this is a paper airplane
+flying through different
+yeah nothing that I generated came out
+anywhere near as good as what they were
+showing on the homepage so quite
+honestly I think there's quite a bit of
+work to do I've been much more impressed
+still with what we're getting out of
+lum's dream machine and Runway gen 3
+than what I'm getting out of hot shot
+and quite honestly this is the most
+expensive of the options too so
+hopefully it gets better soon if you
+want to see a full detailed breakdown of
+all of my tests using Hot Shot I
+actually did a video called new AI video
+tool claims to be as good as Sora and
+this one I do a much deeper dive into
+how I came up with the prompts why I use
+these different prompts and the outputs
+that I got so check that out if you want
+to dive a little bit deeper on what Hot
+Shot is capable of and my experiments
+with it in more AI video news LTX Studio
+rolled out publicly this week so now
+anybody can use it and it's got some
+pretty cool features in it the coolest
+feature in my opinion is the ability to
+do this motion tracking so you can
+upload a video of yourself giving
+certain facial expressions and those
+facial expressions will translate to the
+characters inside your video to me
+that's pretty dang cool you can also do
+things like Scribble a scene to inform
+the platform what you want your videos
+to look like give it a text prompt to go
+along with it and it will generate that
+scene based on your scribbles and
+there's much more features like key
+frame controls enhanced collaboration
+stuff like that so it looks pretty cool
+also this week a did laed an AI video
+translation tool that includes voice
+cloning and lip sync so if you're
+familiar with tools like hey Jen this
+can now do what that tool does here's a
+quick
+example with video translate a feature
+of our studio that automatically
+transforms your videos into seamless
+spoken translation and since we're
+talking about AI audio right now it's
+worth mentioning that 11 Labs text to
+speech app called reader is now
+available globally we've had it in the
+US here for probably a month or so but
+it's a cool tool where you can open up
+articles or PDFs or things like that and
+have them read to you in pretty much any
+voice you want including your own voice
+all right let's move on to large
+language Model news and let's start with
+perplexity this week because perplexity
+is like my main go-to when I need any
+sort of information from the web now I
+go to perplexity over Google search 99%
+of the time now and perplex is starting
+to roll out some new features like chat
+gpt's code interpreter we can see Phil
+here says wow perplexity code
+interpreter can now install libraries
+and display charts in the result this
+enables many more use cases compared to
+chat GPT code interpreter like creating
+stock market charts using Y finance and
+then there's some screenshots here
+install a library to get the stock
+market returns of the day index over the
+past 20 years then use it to make a
+chart and perplexity actually goes and
+runs the code here and then generat the
+chart for them so this is a really
+really solid add-on to perplexity which
+is probably going to make it more and
+more people's go to tool to do research
+now everybody doesn't have this feature
+yet Arend the CEO of perplexity says
+code interpreter and plot rendering are
+slowly being rolled out now in less
+exciting perplexity news but probably
+good for perplexity not as good for
+users perplexity AI is planning to start
+running ads in fourth quarter as AI
+assisted search gains popularity so it
+looks looks like perplexity is going to
+kind of go in that Google model and
+start running advertising right inside
+of perplexity when you ask questions
+apparently they're circulating a pitch
+deck right now that is promoting the
+app's reach and increasing usage and
+down here it says with advertising
+perplexity will follow a model called
+CPM or cost per thousand Impressions
+perplexity said in its pitch deck that
+its Key Advertising categories initially
+would include topics such as technology
+health and pharmaceuticals arts and
+entertainment Finance plus food and
+beverage ad iers will be able to sponsor
+related questions below answers and buy
+display ads to the right of a perplexity
+generated answer now I'm not certain
+from this article here on CNBC whether
+or not pro users are still going to have
+ads because if you've used perplexity
+you know there's a free version and a
+pro version the pro version you actually
+have to pay to get access to I'm
+assuming the ads are only going to be in
+the free version and not the pro version
+but we still have to wait and see
+because that's not specifically laid out
+in this article here now if you're
+somebody that uses AI at work or you're
+thinking about using AI at work you're
+going to want to grab hubspot's
+completely free bundle called five
+essential resources for using chat GPT
+at work and honestly if you're not
+thinking about using AI in the workplace
+just remember what F Fe Lee says here AI
+won't replace humans but humans using AI
+will so if you're not using AI to speed
+up and improve the quality of your work
+well your competitors probably are the
+link to this completely free resource is
+down in the description right now and
+trust me this is something you're going
+to want to look through it includes
+interesting flowcharts on when you
+should or shouldn't use chat GPT there's
+also a really cool template in there
+that you can use with chat GPT to make
+sure that any content it creates for you
+follows your Brand's voice you've got an
+AI generated content refinement
+checklist to double check ai's work and
+ensure that you're putting something out
+into the world that you really want to
+be putting out there there's a four page
+checklist that you can easily follow all
+about adopting AI in the workplace and a
+super comprehensive p PDF guide on how
+to supercharge your day with chat GPT
+and what's really cool about this is if
+you scroll all the way down to the
+bottom of this document they have 100
+ways to try chat GPT today it's got some
+pretty cool prompts to test out in it
+too like providing recommendations for
+improving customer service and support
+providing recommendations for improving
+website SEO helping with email
+management and organization and so much
+more again it's super comprehensive
+super helpful and once again the link to
+this 100% free resource from HubSpot is
+down in the description below and thank
+you so much to HubSpot for sponsoring
+this video anthropics in the news this
+week but not for the best reasons
+they're getting sued just like open AI
+just like pretty much every company
+making large language models in fact I'm
+probably going to stop talking about law
+suits in these videos because pretty
+much all of these large language models
+are getting sued these days and I'll
+probably only start talking about
+lawsuits that are like concluded and
+there's actually something that comes
+from it but once again a bunch of
+authors are suing because their Works
+were scraped to get the data for
+anthropics platform there's a giant data
+set called the pile and the pile is this
+large scraping of information from all
+over the web that a lot of these large
+language model companies use as their
+sort of initial data set to kick off the
+training of their large language models
+and it sounds like authors are kind of
+starting to go after any company that
+trained data on the pile because the
+pile also included books from authors
+and paywalled content and things like
+that Microsoft released a new model this
+week called f 3.5 this new model has
+3.82 billion parameters it is a smaller
+model that seems to be designed to run
+on mobile devices and things like that
+and when compared to other similar sized
+smaller models like GPT 40 mini Gemini
+1.5 flash Gemma 29b llama 3.1 8B mistal
+Nemo etc etc etc it pretty much
+performed better or on par in all of the
+various benchmarks that was tested on
+moving over to open AI this week they
+rolled out the ability to fine-tune GPT
+40 so you can sort of custom train your
+own information into the model now quite
+honestly for most people and most
+companies fine-tuning is probably
+Overkill it's probably not necessary for
+you to do you can use something like
+retrieval augmented generation or rag
+and just share documents and let your
+llm have access to those documents to
+retrieve whatever sort of custom
+information you want but if you do want
+to find tuna model in GPT 40 you can now
+do that they're offering 1 million
+training tokens per day for free for
+every organization through September
+23rd it's pretty cool that open AI is
+doing that and allowing companies to do
+that but again it's probably overkill
+for like 90% of companies also this week
+open AI partnered with cond Nast I think
+I said that right they own Brands like
+Vogue the New Yorker condas traveler GQ
+architectural digest Vanity Fair wired
+bone appeti and more and now content
+from those brands are going to be
+accessible inside of open aai and chat
+GPT and of course the new search GPT
+which I personally still don't have
+access to because they seem to have cut
+it off after a certain amount of users
+and said no more until later and if
+you're keeping score open AI has now
+partnered with K Nast Associated Press
+Axel Springer the Atlantic do- Meredith
+Financial Times lemond News Corp prism
+media time Fox Media and others so it
+seems like maybe they're trying to avoid
+all these lawsuits Going The Distance by
+just going and partnering with these
+companies and either paying them or
+giving them access to their Tech in
+exchange for being allowed to use their
+data that's what it seems like is
+happening here and since we're talking
+about open AI open AI finally spoke up
+about the Senate Bill 1047 I did do a
+podcast episode on the next wave with
+Anan from a16z where we talked about
+this Senate bill and why AI companies
+are so opposed to it essentially the
+bill wants to hold the companies that
+make the large language models
+responsible for any harm done using the
+large language models so if somebody
+goes and uses an llm like meta's llama
+llm and uses it to create a bomb or
+something like that not only will the
+person who used the llm to create the
+bomb be held responsible for their
+actions but meta who created the llm
+will also be held responsible and that's
+a very oversimplified EXP explanation of
+why all of these AI companies are so
+opposed to this new bill they're worried
+that it will stifle Innovation because
+how are they supposed to know what these
+models might eventually be used for and
+how are they supposed to continue to
+make the models more and more advanced
+if they're worried that these more
+advanced models might be used by Bad
+actors to do bad actor stuff and the
+information who also reported on this
+same exact thing here did a quick
+breakdown that I thought was interesting
+of the friends and foes of Cali AI
+safety bill so TechNet is against the
+bill Mozilla is against the bill a16z is
+against the bill Google's against the
+bill hugging fa is against the bill meta
+is against the bill Y combinator is
+against the bill they have open AI as
+sort of neutral but now open AI is
+coming out as against the bill and then
+anthropic and Microsoft they're putting
+as neutral but anthropic basically said
+that they would support the bill if
+there was some amendments made some
+amendments were made but then anthropic
+hasn't really made another statement
+about it since and then Microsoft has
+not taken a position at all about the
+bill and then the proponents of the bill
+are the center for human compatible Ai
+and notion for some reason which seems
+kind of odd because notion uses
+anthropic open Ai and other llms a super
+quick edit here um in the middle of
+editing this video and it just came out
+today that anthropic actually did take a
+stance on this bill they said that
+anthropic now says that the benefits
+outweigh the cost for the California a
+bill so basically anthropic is now
+saying they think that this bill isn't
+so bad they didn't say they endorsed the
+bill but they said that they think the
+benefits of this bill are going to
+outweigh the costs just wanted to make
+this little addon real quick and splice
+it in because new information came out
+about that specific topic if you
+remember from back several months ago
+during Microsoft's build event they
+announced their recall AI feature which
+was a feature that was like your search
+history in your browser but for your
+whole computer it just kind of remembers
+everything you did on your computer so
+you can go back and remember anything
+whether it was on the internet in your
+browser or not well a lot of people were
+really worried about the security
+implications of this Microsoft sort of
+shelved it for a little bit and now it
+looks like we're going to be getting
+this in October finally I actually had
+the opportunity to play around with this
+feature while I was at the Microsoft
+build event I thought it was pretty cool
+but I also saw why it could be worrisome
+I do understand that it didn't blur out
+passwords or anything like that so if
+you type a password on a screen that was
+saved in your history and if somebody
+got access to your computer they can go
+back look through your history and see
+you typing in passwords and things like
+that so there was definitely some issues
+so it's a good thing they went back to
+the drawing board with it but personally
+I'm kind of excited for this feature I
+thought it was really cool Google made
+an update this week to Gmail with AI
+adding a Polish option where you can
+type an email hit a button to polish it
+and it will sort of rewrite that email
+for for you in a new polished fashion
+they also added the ability to refine my
+draft so you can see they wrote up a
+draft here and they're given the option
+to refine the draft and then they have
+options for formalize Polish all that
+sort of thing and then moving on to
+robotics we've got some fun cool
+robotics news this week the unry
+robotics that we can see here on the
+screen they're rolling out their G1 mass
+production version we can see in the
+video what it can do it can like walk up
+and downstairs it can jump it can do all
+sorts of cool stuff and once it's
+available it's going to go for $6 $1,000
+now I know that's a lot of money but
+quite honestly that's a lot less
+expensive than I would have thought
+something like that would be at this
+current stage of where we're at now
+according to this article on the verge
+unry hasn't revealed exactly when the
+production ready version of the G1 will
+actually be available but when it is
+potential customers shouldn't expect it
+to stroll into the kitchen and cook
+breakfast right out of the box the robot
+is designed to learn through imitation
+using the company's unry robot unified
+large language model and its initial
+appeal will be as an afford able
+humanoid platform for conducting
+robotics research not as a real life
+version of Rosie the robot from the
+Jetson and we got more robots this week
+too this one is called AGI bot and once
+again it is another humanoid robot to me
+it kind of looks more like goat legs or
+something but it looks like he's trying
+to challenge Elon Musk and their Optimus
+robot now we don't have any videos of
+this robot yet but we do have just the
+images that we've seen on screen I'll
+probably talk more about this as more
+comes out from this company this week
+Best Buy introduced an AI power delivery
+tracking basically people are impatient
+and when they order something from Best
+Buy they want to know exactly where it
+is at the exact moment and it sounds
+like Best Buy is using AI to accomplish
+that Best Buy is rolling out an AI power
+delivery tracking system that promises
+minute-by-minute updates the company
+aims to satisfy customers who are
+increasingly frustrated with vague
+delivery windows and limited order
+visibility and here's something I think
+everybody can get behind AI technology
+can help you win the battle over
+mosquitoes there's this little device
+called the bazo iris I don't know if I'm
+pronouncing that right or not but it's a
+smart mosquito detector it weighs less
+than a pound and it uses AI vision and
+algorithms to detect track and Target
+mosquitoes and it even works in complete
+darkness and when it spots a mosquito
+the iris doesn't just sit there it
+tracks the insect until it lands and
+then uses a safe laser pointer to Mark
+the Spot it then sends an alert to your
+smartphone which is compatible with both
+iPhone and Androids so you know exactly
+where to aim your swatter so it doesn't
+actually like blast it out for you
+that's probably like V2 V1 just points
+it out with a laser and then you can run
+up and slap it but I want one I'm one of
+those people that is like a mosquito
+magnet so whenever there's mosquitoes
+around nobody else gets bit because they
+all come to me so I kind of need this in
+my life and then finally a16z released
+their top 100 gen AI consumer apps this
+week which breaks down the top 50 gen
+web products and the top 50 gen mobile
+app apps taking a peek at the web
+products no surprises here chat GPT is
+number one character AI is number two
+and perplexity is number three followed
+by Claude and sunno I'm actually kind of
+shocked that sunno is this high up but
+good for them it's a cool fun product
+that I know more and more people are
+catching on to funny thing is janitor AI
+number six I've never even heard of that
+one I'm going to need to look into that
+and figure out what it is I'm excited to
+see Leonardo here at number 17 and a lot
+of familiar apps on this top 50 list and
+then under top 50 gen mobile apps once
+again no surprise chat GPT is number one
+Microsoft Edge is number two that one's
+a little surprising to me I think most
+surprising to me is to see perplexity
+all the way down here at number 50 for
+me that's probably my top most used AI
+app on my phone and the fact that it's
+all the way down here at number 50 this
+one deserves to be a lot higher I think
+this one should be up in the top 10 cuz
+it's a really useful app anyway that's
+just my personal opinion on it I love
+seeing reports like this and seeing
+where tools are ranking so that's what I
+got for you this week lots of lots of AI
+art news in the world of image
+generation and video generation more
+lawsuits more regulation that the AI
+companies are against and some cool
+robots that we can look forward to in
+the future the next several weeks are
+going to be fairly crazy for me I'm
+going to be at vidsummit the first week
+in September HubSpot inbound the third
+week of September meta connect the
+fourth week in September so the videos
+might slow down a little bit on this
+Chann Channel I'm going to still try to
+get the AI News videos out once a week
+to Loop you in on the latest AI news
+like this one but unless some really
+cool insane things happen that I just
+feel I have to share with you there may
+be a few less videos over the next you
+know four to five weeks but again when
+something major happens I'm definitely
+going to take the time step away from
+whatever I'm doing to make a video for
+you and keep you in the loop so if you
+want to stay looped in on all the latest
+AI News latest AI tools fun AI tutorials
+that you can do yourself make sure
+you're subscribed to this channel like
+this video it will ensure that more of
+these videos show up in your YouTube
+feed it also makes me feel good and
+helps my channel out so I really
+appreciate it and if you haven't already
+check out future tools. where I curate
+all of the coolest AI tools I have a
+newsletter I keep the AI news page up to
+dat on a daily basis lots of good stuff
+there if you're into AI like I am it's
+all free at Future tools. and once again
+thank you so much for hanging out with
+me nerding out with me I record these
+videos on Thursday so if any big news
+came out late Thursday evening or on
+Friday it'll probably be in next week's
+video but I love that you just come and
+hang out with me once a week and we can
+talk about fun AI news I really really
+appreciate you thanks again to HubSpot
+for sponsoring this video I'll hopefully
+see you in the next one bye-bye
